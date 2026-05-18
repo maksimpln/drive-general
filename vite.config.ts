@@ -12,7 +12,7 @@ export default defineConfig({
     }),
     react()
   ],
-  base: '/',
+  base: '/drive-general/',
   resolve: {
     alias: {
       '@app': path.resolve(__dirname, './src/app'),
